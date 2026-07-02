@@ -291,4 +291,4 @@ Don't be the reason your ISP sends weird emails.
 🌽
 
 
-WE ARE ALL JUST DEVICES ON SOMEBODY ELSE'S NETWORK.
+ALL WE CAN DO IS FIND OUT WHO WITH US.
